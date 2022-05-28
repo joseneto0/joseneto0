@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joseneto0
-- 👀 I’m interested in Python, Cloud Computing, Cybersecurity
+- 👀 I’m interested in Python, Cybersecurity
 - 🌱 I’m currently learning Python, Computer Networking
 - 💞️ I'm looking to collaborate on development, cybersecurity
 - 📫 How to reach me joseneto.jn1606@gmail.com
