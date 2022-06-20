@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **development, devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joseneto0?tab=repositories](https://github.com/joseneto0?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/joseneto0](https://github.com/joseneto0)
 
 - 📫 How to reach me **joseneto.jn1606@gmail.com**
 
