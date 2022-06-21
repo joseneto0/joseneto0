@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Neto</h1>
-<h3 align="center">A Network computer student passionate in development from Brasil</h3>
+<h3 align="center">A Network computer student passionate in programming from Brasil</h3>
 
 - 🌱 I’m currently learning **Python, Linux, Computer Networking**
 
