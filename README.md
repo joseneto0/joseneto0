@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Neto</h1>
 <h3 align="center">A Network computer student passionate in programming from Brasil</h3>
 
-- 🌱 I’m currently learning **Python, HTML5 & CSS3, Linux, C++, Computer Networking**
+- 🌱 I’m currently learning **Python, Django, HTML5 & CSS3, Linux, C++, Computer Networking**
 
 - 👯 I’m looking to collaborate on **development, devops**
 
