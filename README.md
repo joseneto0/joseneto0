@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML5 & CSS3 & JavaScript, Java, C++, Linux, Computer Networking**
 
-- 👯 I’m looking to collaborate on **development, devops**
+- 👯 I’m looking to collaborate on **Back-End Developer, Full-Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joseneto0](https://github.com/joseneto0)
 
