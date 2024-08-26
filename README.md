@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Neto</h1>
 <h3 align="center">A Network computer student passionate in programming from Brasil</h3>
 
-- 🌱 I’m currently learning **HTML5 & CSS3 & JavaScript, Java, C++, Linux, Computer Networking**
+- 🌱 I’m currently learning **Java, Python, C++, Linux, Computer Networking**
 
-- 👯 I’m looking to collaborate on **Back-End Developer, Full-Stack Developer**
+- 👯 I’m looking to collaborate on **Back-End Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joseneto0](https://github.com/joseneto0)
 
